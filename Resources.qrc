@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/Assets">
+        <file>Images/32339.png</file>
+        <file>Images/780791_cancel_512x512.png</file>
+        <file>Images/Sample_User_Icon.png</file>
+        <file>Images/Tate.png</file>
+        <file>Themes/License.txt</file>
+        <file>Themes/Toolery.qss</file>
+        <file>Themes/SyNet.qss</file>
+        <file>Images/TateHome.png</file>
+        <file>Images/addusr.png</file>
+        <file>Images/disableusr.png</file>
+        <file>Images/groupref.png</file>
+        <file>Images/Home.png</file>
+    </qresource>
+</RCC>

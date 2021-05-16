@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>Assets/Images/Tate.png</file>
+        <file>Assets/Images/Sample_User_Icon.png</file>
+    </qresource>
+</RCC>
